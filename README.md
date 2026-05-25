@@ -4,7 +4,7 @@ Dies ist mein erstes Cloud-Projekt.
 
 **Technologie:** Amazon S3 Static Website Hosting
 
-**Link zur Live-Website:** ([HIER_DEINEN_LINK_EINFÜGEN](http://meine-erste-website-marcos-medina-2026.s3-website.eu-north-1.amazonaws.com))
+**Link zur Live-Website:** ((http://meine-erste-website-marcos-medina-2026.s3-website.eu-north-1.amazonaws.com))
 
 ### Was ich gelernt habe:
 - Statische Website in AWS S3 hochladen
